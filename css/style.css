@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css?family=Song+Myung');
+#logo{
+	background-image:url(../img/cabecera-serigrafia-estriper-jpg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 20px;
+}
+
+#definicion{
+	text-align: center;
+	align-content: center;
+	padding-top: 65px;
+	padding-bottom: 70px;
+}
+
+#definicion h1{
+	font-weight: 700;
+}
+
+#definicion p{
+	text-align: justify;
+}
+
+#stencil{
+	background-image: url(../img/Stencil-Print-Step-6-Version-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+	
+}
+
+#stencil h1{
+	font-weight: 600;
+}
+
+#stencil p{
+	text-align: justify;
+}
+
+.sobrecolor{
+	background-color: rgba(13,70,83,0.78);
+	min-height: 170px;
+	padding: 80px 0;
+}
+
+footer{
+	background-color: #A05B5C;
+	color: #fff;
+	font-weight: 200px;
+	text-align: center;
+	padding: 10px 0;
+}
+
+#historia1{
+	text-align: center;
+	align-content: center;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+#historia1 h1{
+	font-weight: 600;
+}
+
+#historia1 p{
+	text-align: justify;
+	}
+
+#historia2{
+	background-image: url(../img/como-hacer-afiches-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: justify;
+}
+
+#historia3{
+	background-color: black;
+	color: #fff;
+	padding-top: 30px;
+	}
+
+#historia3 h4{
+	text-align: center;
+}
+
+#historia4{
+	background-image: url(../img/como-hacer-afiches-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: justify;
+}
+
+#material1 h1, p{
+	text-align: center;
+}
+
+#fotomaterial1{
+	background-image:url(../img/bast.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material2 h1, p{
+	text-align: center;
+}
+
+#fotomaterial2{
+	background-image:url(../img/HTB1LY5pKVXXXXa5aXXXq6xXFXXXA.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material3 h1, p{
+	text-align: center;
+}
+
+#fotomaterial3{
+	background-image:url(../img/brico-0405-1-uso-grapadora-manual-electrica-paso-1-1280x720x80xX.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material4 h1, p{
+	text-align: center;
+}
+
+#fotomaterial4{
+	background-image:url(../img/46944760_ml.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material5 h1, p{
+	text-align: center;
+}
+
+#fotomaterial5{
+	background-image:url(../img/sericrom-bicromato-emulsion-para-serigrafia-D_NQ_NP_638921-MLM27329889736_052018-F.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material6 h1, p{
+	text-align: center;
+}
+
+#fotomaterial6{
+	background-image:url(../img/removedor-quita-emulsion-concentrado-500g-serigrafia-textil-D_NQ_NP_862111-MLA20482766113_112015-F.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material7 h1, p{
+	text-align: center;
+}
+
+#fotomaterial7{
+	background-image:url(../img/tintas.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material8 h1, p{
+	text-align: center;
+}
+
+#fotomaterial8{
+	background-image:url(../img/camiseta-beagle-roly-rol-6554k-azul-denim-img01.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#taller1 h1, p{
+	text-align: center;
+}
+
+#fototaller1{
+	background-image:url(../img/cuartooscuro.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material10 h1, p{
+	text-align: center;
+}
+
+#fotomaterial10{
+	background-image:url(../img/tape.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material11 h1, p{
+	text-align: center;
+}
+
+#fotomaterial11{
+	background-image:url(../img/cloro.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material12 h1, p{
+	text-align: center;
+}
+
+#fotomaterial12{
+	background-image:url(../img/esponja.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#material13 h1, p{
+	text-align: center;
+}
+
+#fotomaterial13{
+	background-image:url(../img/guante.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#taller2 h1, p{
+	text-align: center;
+}
+
+#fototaller2{
+	background-image:url(../img/pulpo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#taller3 h1, p{
+	text-align: center;
+}
+
+#fototaller3{
+	background-image:url(../img/pila.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#taller4 h1, p{
+	text-align: center;
+}
+
+#fototaller4{
+	background-image:url(../img/taller.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#taller5 h1, p{
+	text-align: center;
+}
+
+#fototaller5{
+	background-image:url(../img/calentador.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 220px;
+}
+
+#departamentos{
+	color: #fff;
+	text-align: center;
+}
+
+#departamentos h1{
+	text-align: center;
+	color:black;
+	padding-bottom: 5px;
+}
+
+#espacio{
+	padding: 70px;
+	background-color: rgba(13,70,83,0.78);
+}
+
+#aplicaciones1{
+	text-align: center;
+}
+
+#aplicaciones2{
+	text-align: center;
+}
+
+#espacio2{
+	padding: 30px;
+	background-color: rgba(13,70,83,0.78);
+}
+
+#ventajas h1{
+	text-align: center;
+}
+
+#ventajas p{
+	text-align: justify;
+}
+
+#ventajas{
+	padding: 20px 0;
+}
+
+#departamentos2{
+	background-color: rgba(13,70,83,0.78);
+	color: #fff;
+	padding-bottom: 20px;
+}
+
+#proceso h1{
+	text-align: left;
+}
+
+#proceso p{
+	text-align: justify;
+}
+
+#proceso{
+	padding: 30px;
+}
+
+#videos{
+	background-color: rgba(13,70,83,0.78);
+	padding: 50px;
+}
